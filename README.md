@@ -6,5 +6,7 @@ link download apk ( https://drive.google.com/file/d/1rMYgx__T6bX9EtVAZ5cAZ2jiiNR
 preview dari program yang dibuat (https://docs.google.com/presentation/d/1CeJQhrmO8OykT8DBh_7wp6dzkV1SwR_G/edit?usp=sharing&ouid=105745134636259313879&rtpof=true&sd=true)
 
 Marker AR(https://drive.google.com/drive/folders/1y5KdjOWtBRNz9MyqxODNPFHUgH-jvvCB?usp=share_link)
+
 link mozila hubs : https://hubs.mozilla.com/spoke/projects/neq6wXw
+
 untuk demo menjalankan program dapat dilihat di Youtube (https://youtu.be/YBcoQnKYPps)
